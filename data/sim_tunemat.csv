@@ -1,0 +1,31 @@
+"samplesize","efficiency","tunedat.seed1","tunedat.seed2","tunedat.seed3","tunedat.seed4","tunedat.seed5","tunedat.seed6","tunedat.seed7","tuneboost.mustop","tuneboost.phistop","tuneforest.mtry","tuneforest.nodesize","errorCatch"
+50,"Max efficiency 0.1",38320995,557839905,352787543,267433234,938265786,368026280,64055732,78,113,3,2,"Error in cvrisk.mboostLSS(object = object, folds = folds, grid = grid, : Error in basefit(u, m): could not fit any base-learner in boosting iteration 135
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 699
+
+"
+50,"Max efficiency 0.25",704476080,991784561,251678509,6017889,123909485,664379392,346375367,114,113,4,2,NA
+100,"Max efficiency 0.1",541785069,562017584,776886381,259852472,901612466,758960651,765664856,84,292,4,2,"Error in cvrisk.mboostLSS(object = object, folds = folds, grid = grid, : Error in basefit(u, m): could not fit any base-learner in boosting iteration 304
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 300
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 1489
+
+"
+100,"Max efficiency 0.25",20954436,190296240,422557698,875708475,848102246,869189040,715541167,68,292,4,2,NA
+150,"Max efficiency 0.1",640228388,575489922,245321005,696618734,893155896,142591526,376392425,68,292,3,2,NA
+150,"Max efficiency 0.25",917305519,786938149,94285786,103312050,130892786,195602585,677139843,68,113,3,2,NA
+200,"Max efficiency 0.1",598541164,110486617,599816952,926294012,304817209,917100646,284048951,122,292,4,2,"Error in cvrisk.mboostLSS(object = object, folds = folds, grid = grid, : Error in basefit(u, m): could not fit any base-learner in boosting iteration 972
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 147
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 140
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 171
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 684
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 661
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 298
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 132
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 897
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 123
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 627
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 328
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 1316
+Error in basefit(u, m): could not fit any base-learner in boosting iteration 308
+
+"
+200,"Max efficiency 0.25",653843387,252994567,953818579,656998966,130538304,212257517,282688276,630,113,3,2,NA
